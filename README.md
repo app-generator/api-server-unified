@@ -1,6 +1,6 @@
 # Unified API Definition
 
-This document describes the **unified defintion** used by all API servers provided by AppSeed. This internal standard is used by all full-stack products, despite the UI or backend technology. 
+This document describes the **[unified defintion](https://docs.appseed.us/boilerplate-code/api-unified-definition)** used by all API servers provided by AppSeed. This internal standard is used by all full-stack products, despite the UI or backend technology. 
 
 <br />
 
@@ -40,4 +40,4 @@ This document describes the **unified defintion** used by all API servers provid
 <br />
 
 ---
-Unified API Definition - Internal API Interface definition used by AppSeed [App Generator](https://appseed.us) 
+[Unified API Definition](https://docs.appseed.us/boilerplate-code/api-unified-definition) - Internal API Interface definition used by AppSeed [App Generator](https://appseed.us) 
